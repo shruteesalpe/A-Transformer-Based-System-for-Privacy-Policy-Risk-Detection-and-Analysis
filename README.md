@@ -159,13 +159,11 @@ Potential extensions include:
 
 # Authors
 
-*1. Akshita Sharma*
+*1. Akshita Sharma* Project Lead - 1
 
-*2. Shrutee Salpe*
+*2. Shrutee Salpe* Project Lead - 2
 
-*3. Parth Gupta*
-
-Project Leads and Research Contributors
+*3. Parth Gupta*- Research Contributor
 ---
 
 ## License
