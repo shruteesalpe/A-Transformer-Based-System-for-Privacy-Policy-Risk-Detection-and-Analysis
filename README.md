@@ -157,7 +157,7 @@ Potential extensions include:
 
 ---
 
-# Author
+# Authors
 
 *1. Akshita Sharma*
 
