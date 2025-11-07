@@ -160,7 +160,9 @@ Potential extensions include:
 # Author
 
 *1. Akshita Sharma*
+
 *2. Shrutee Salpe*
+
 *3. Parth Gupta*
 
 Project Leads and Research Contributors
