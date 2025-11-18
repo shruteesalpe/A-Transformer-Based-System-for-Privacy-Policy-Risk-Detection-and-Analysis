@@ -1,8 +1,9 @@
-# Ignore the dataset folder (likely source of HTML/CSS/JS stats)
-OPP-115/* linguist-vendored
+# 1. Ignore the dataset recursively (The double star ** is the key!)
+OPP-115/** linguist-vendored
 
-# Ignore the results folder (if it contains HTML logs/graphs)
-results/* linguist-vendored
+# 2. Ignore the results folder if it has logs/graphs
+results/** linguist-vendored
 
-# Force your Python scripts to be counted (just in case)
-*.py linguist-detectable=true
+# 3. (Optional) If you have a virtual environment folder, ignore it too
+env/** linguist-vendored
+venv/** linguist-vendored
