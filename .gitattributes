@@ -5,4 +5,4 @@ OPP-115/* linguist-vendored
 results/* linguist-vendored
 
 # Force your Python scripts to be counted (just in case)
-# *.py linguist-detectable=true
+*.py linguist-detectable=true
