@@ -5,5 +5,5 @@ OPP-115/** linguist-vendored
 results/** linguist-vendored
 
 # 3. (Optional) If you have a virtual environment folder, ignore it too
-env/** linguist-vendored
-venv/** linguist-vendored
+# env/** linguist-vendored
+# venv/** linguist-vendored
