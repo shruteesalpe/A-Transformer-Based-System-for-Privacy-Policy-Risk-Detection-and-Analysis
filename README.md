@@ -169,6 +169,6 @@ Potential extensions include:
 
 ## License
 
-This project is distributed under the MIT License (© 2025 Akshita Sharma).  
+This project is distributed under the MIT License (© 2025 Shrutee Salpe).  
 Users are permitted to use, modify, and distribute the software in accordance with the license terms.
 
