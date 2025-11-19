@@ -2,7 +2,7 @@
 OPP-115/** linguist-vendored
 
 # 2. Ignore the results folder if it has logs/graphs
-results/** linguist-vendored
+# results/** linguist-vendored
 
 # 3. (Optional) If you have a virtual environment folder, ignore it too
 # env/** linguist-vendored
